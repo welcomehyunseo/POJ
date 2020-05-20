@@ -34,3 +34,17 @@ Computer < USB4Adapter < USB4
 로 연결되는 방식이다. USB 의 함수을 공통 정의하기 위해 USB 인터페이스를 생성하여 USB3 과 USB4Adapter 에 상속하였다.
 
 ## 코드
+* Computer
+
+  ㄴ Computer.java (Client) <a href="https://github.com/welcomehyunseo/POJ/blob/master/Design%20Pattern/Sturctural/Adapter/Workspace/Computer/src/Computer/Computer.java">바로가기</a>
+
+* Main
+
+  ㄴ Main.java <a href="https://github.com/welcomehyunseo/POJ/blob/master/Design%20Pattern/Sturctural/Adapter/Workspace/Computer/src/Main/Main.java">바로가기</a>
+
+* USB
+
+  ㄴ USB.java (<interface> Target) <a href="https://github.com/welcomehyunseo/POJ/blob/master/Design%20Pattern/Sturctural/Adapter/Workspace/Computer/src/USB/USB.java">바로가기</a>
+  ㄴ USB3.java <a href="https://github.com/welcomehyunseo/POJ/blob/master/Design%20Pattern/Sturctural/Adapter/Workspace/Computer/src/USB/USB3.java">바로가기</a>
+  ㄴ USB4.java (Adaptee) <a href="https://github.com/welcomehyunseo/POJ/blob/master/Design%20Pattern/Sturctural/Adapter/Workspace/Computer/src/USB/USB4.java">바로가기</a>
+  ㄴ USB4Adapter (Adapter) <a href="https://github.com/welcomehyunseo/POJ/blob/master/Design%20Pattern/Sturctural/Adapter/Workspace/Computer/src/USB/USB4Adapter.java">바로가기</a>
