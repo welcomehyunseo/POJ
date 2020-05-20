@@ -1,11 +1,5 @@
-# M2AS
-## Motor 
-
-## angle adjustment 
-
-## system 
-
-### using strategy pattern
+# 모터 각도 조작 시스템
+## using strategy pattern
 
 
 
