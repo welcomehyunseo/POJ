@@ -18,3 +18,19 @@
 <a href="https://kimch3617.tistory.com/entry/%EC%96%B4%EB%8C%91%ED%84%B0-%ED%8C%A8%ED%84%B4-adapter-pattern">자료 출처</a>
 
 # 예제
+## 배경
+USB 4.0이 지원안되는 컴퓨터를 사용하고 있다. 오로직 USB 3.0 만을 사용할 수 있는 컴퓨터에 USB 4.0 을 사용하기 위해서는 변환 어뎁터가 필요하다.
+
+## 다이어그램
+
+![주석 2020-05-21 013949](https://user-images.githubusercontent.com/48713654/82473071-012b2280-9b04-11ea-8791-ae412078fa2d.png)
+
+위 다이어그램과 같이 Computer 클래스에 USB 4.0을 사용하기 위해 USB4Adapter을 별도로 만들어 주었다. 
+
+`
+Computer < USB4Adapter < USB4
+`
+
+로 연결되는 방식이다. USB 의 함수을 공통 정의하기 위해 USB 인터페이스를 생성하여 USB3 과 USB4Adapter 에 상속하였다.
+
+## 코드
