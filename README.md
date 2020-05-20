@@ -8,12 +8,12 @@
 ### Gof 디자인 패턴 분류표
 <img src="https://miro.medium.com/max/640/0*LDnwNiY6CBEs275n.png"/>
 
-### 디자인 패턴 구조 핵심 단어
+### 핵심 단어
 * context: 패턴이 적용될 수 있는 장소를 뜻함.
 
-### 생성(Creational) 패턴
+### Creational Pattern
 
-### 구조(Structural) 패턴
+### Structural Pattern
 
-### 행위 (Behavioral) 패턴
-* <a href="">Strategy</a>
+### Behavioral Pattern
+* <a href="https://github.com/welcomehyunseo/POJ/tree/master/Design%20Pattern/Behavioral/Strategy">Strategy</a>
