@@ -3,7 +3,7 @@
 
 ## Design Pattern
 
-<a href="https://gmlwjd9405.github.io/2018/07/06/design-pattern.html" target="_blank">디자인 패턴에 대한 참고자료</a>
+디자인 패턴에 대한 참고자료 <a href="https://gmlwjd9405.github.io/2018/07/06/design-pattern.html" target="_blank">바로가기</a>
 
 ### Gof 디자인 패턴 분류표
 <img src="https://miro.medium.com/max/640/0*LDnwNiY6CBEs275n.png"/>
@@ -14,6 +14,7 @@
 ### Creational Pattern
 
 ### Structural Pattern
+* Adapter <a href="https://github.com/welcomehyunseo/POJ/tree/master/Design%20Pattern/Sturctural/Adapter">바로가기</a>
 
 ### Behavioral Pattern
-* <a href="https://github.com/welcomehyunseo/POJ/tree/master/Design%20Pattern/Behavioral/Strategy">Strategy</a>
+* Strategy <a href="https://github.com/welcomehyunseo/POJ/tree/master/Design%20Pattern/Behavioral/Strategy">바로가기</a>
