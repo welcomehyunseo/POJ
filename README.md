@@ -18,3 +18,4 @@
 
 ### Behavioral Pattern
 * Strategy <a href="https://github.com/welcomehyunseo/POJ/tree/master/Design%20Pattern/Behavioral/Strategy">바로가기</a>
+* Observe <a href="https://github.com/welcomehyunseo/POJ/tree/master/Design%20Pattern/Behavioral/Observe">바로가기</a>
